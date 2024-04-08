@@ -9,3 +9,4 @@ This repository includes MS Excel files that illustrate:
 - Lambda Functions.
 - XLookup.
 - Array Formulaes.
+- Pivot Tables.
